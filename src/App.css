@@ -1,0 +1,15 @@
+.App {
+  padding: 2% 10%;
+}
+
+.send-message {
+    display: flex;
+    margin-top: 16px;
+}
+
+.panel {
+  padding: 16px;
+  background-color: whitesmoke;
+  width: 80%;
+  margin: 16px 0;
+}
